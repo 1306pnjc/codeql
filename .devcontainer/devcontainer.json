@@ -9,7 +9,7 @@
     "slevesque.vscode-zipexplorer"
   ],
   "settings": {
-    "files.watcherExclude": {
+    "file.watcherExclude": {
       "**/target/**": true
     },
     "codeQL.runningQueries.memory": 2048
